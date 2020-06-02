@@ -1,0 +1,1504 @@
+{
+	"trace":[
+		{
+			"tick": 1,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 200,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1000,
+				"result_line40" : 1200,
+				"error_prior_line18" : 300,
+				"integral_line19" : 700,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 300,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 2,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 300,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1100,
+				"result_line40" : 1400,
+				"error_prior_line18" : 200,
+				"integral_line19" : 900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 200,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 3,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 400,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1100,
+				"result_line40" : 1500,
+				"error_prior_line18" : 100,
+				"integral_line19" : 1000,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 100,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 4,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 500,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1000,
+				"result_line40" : 1500,
+				"error_prior_line18" : 0,
+				"integral_line19" : 1000,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 0,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 5,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 600,
+				"desired_value_line38" : 500,
+				"diff_line39" : 800,
+				"result_line40" : 1400,
+				"error_prior_line18" : -100,
+				"integral_line19" : 900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -100,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 6,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 700,
+				"desired_value_line38" : 500,
+				"diff_line39" : 500,
+				"result_line40" : 1200,
+				"error_prior_line18" : -200,
+				"integral_line19" : 700,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -200,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 7,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 800,
+				"desired_value_line38" : 500,
+				"diff_line39" : 100,
+				"result_line40" : 900,
+				"error_prior_line18" : -300,
+				"integral_line19" : 400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -300,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 8,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 900,
+				"desired_value_line38" : 500,
+				"diff_line39" : -400,
+				"result_line40" : 500,
+				"error_prior_line18" : -400,
+				"integral_line19" : 0,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -400,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 9,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 1000,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1000,
+				"result_line40" : 0,
+				"error_prior_line18" : -500,
+				"integral_line19" : -500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -500,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 10,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 900,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1300,
+				"result_line40" : -400,
+				"error_prior_line18" : -400,
+				"integral_line19" : -900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -400,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 11,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 800,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1500,
+				"result_line40" : -700,
+				"error_prior_line18" : -300,
+				"integral_line19" : -1200,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -300,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 12,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 700,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1600,
+				"result_line40" : -900,
+				"error_prior_line18" : -200,
+				"integral_line19" : -1400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -200,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 13,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 600,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1600,
+				"result_line40" : -1000,
+				"error_prior_line18" : -100,
+				"integral_line19" : -1500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -100,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 14,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 500,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1500,
+				"result_line40" : -1000,
+				"error_prior_line18" : 0,
+				"integral_line19" : -1500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 0,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 15,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 400,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1300,
+				"result_line40" : -900,
+				"error_prior_line18" : 100,
+				"integral_line19" : -1400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 100,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 16,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 300,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1000,
+				"result_line40" : -700,
+				"error_prior_line18" : 200,
+				"integral_line19" : -1200,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 200,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 17,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 200,
+				"desired_value_line38" : 500,
+				"diff_line39" : -600,
+				"result_line40" : -400,
+				"error_prior_line18" : 300,
+				"integral_line19" : -900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 300,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 18,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 100,
+				"desired_value_line38" : 500,
+				"diff_line39" : -100,
+				"result_line40" : 0,
+				"error_prior_line18" : 400,
+				"integral_line19" : -500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 400,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 19,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 0,
+				"desired_value_line38" : 500,
+				"diff_line39" : 500,
+				"result_line40" : 500,
+				"error_prior_line18" : 500,
+				"integral_line19" : 0,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 500,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 20,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 100,
+				"desired_value_line38" : 500,
+				"diff_line39" : 800,
+				"result_line40" : 900,
+				"error_prior_line18" : 400,
+				"integral_line19" : 400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 400,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 21,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 200,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1000,
+				"result_line40" : 1200,
+				"error_prior_line18" : 300,
+				"integral_line19" : 700,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 300,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 22,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 300,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1100,
+				"result_line40" : 1400,
+				"error_prior_line18" : 200,
+				"integral_line19" : 900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 200,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 23,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 400,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1100,
+				"result_line40" : 1500,
+				"error_prior_line18" : 100,
+				"integral_line19" : 1000,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 100,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 24,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 500,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1000,
+				"result_line40" : 1500,
+				"error_prior_line18" : 0,
+				"integral_line19" : 1000,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 0,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 25,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 600,
+				"desired_value_line38" : 500,
+				"diff_line39" : 800,
+				"result_line40" : 1400,
+				"error_prior_line18" : -100,
+				"integral_line19" : 900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -100,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 26,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 700,
+				"desired_value_line38" : 500,
+				"diff_line39" : 500,
+				"result_line40" : 1200,
+				"error_prior_line18" : -200,
+				"integral_line19" : 700,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -200,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 27,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 800,
+				"desired_value_line38" : 500,
+				"diff_line39" : 100,
+				"result_line40" : 900,
+				"error_prior_line18" : -300,
+				"integral_line19" : 400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -300,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 28,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 900,
+				"desired_value_line38" : 500,
+				"diff_line39" : -400,
+				"result_line40" : 500,
+				"error_prior_line18" : -400,
+				"integral_line19" : 0,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -400,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 29,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 1000,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1000,
+				"result_line40" : 0,
+				"error_prior_line18" : -500,
+				"integral_line19" : -500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -500,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 30,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 900,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1300,
+				"result_line40" : -400,
+				"error_prior_line18" : -400,
+				"integral_line19" : -900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -400,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 31,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 800,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1500,
+				"result_line40" : -700,
+				"error_prior_line18" : -300,
+				"integral_line19" : -1200,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -300,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 32,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 700,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1600,
+				"result_line40" : -900,
+				"error_prior_line18" : -200,
+				"integral_line19" : -1400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -200,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 33,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 600,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1600,
+				"result_line40" : -1000,
+				"error_prior_line18" : -100,
+				"integral_line19" : -1500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -100,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 34,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 500,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1500,
+				"result_line40" : -1000,
+				"error_prior_line18" : 0,
+				"integral_line19" : -1500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 0,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 35,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 400,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1300,
+				"result_line40" : -900,
+				"error_prior_line18" : 100,
+				"integral_line19" : -1400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 100,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 36,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 300,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1000,
+				"result_line40" : -700,
+				"error_prior_line18" : 200,
+				"integral_line19" : -1200,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 200,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 37,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 200,
+				"desired_value_line38" : 500,
+				"diff_line39" : -600,
+				"result_line40" : -400,
+				"error_prior_line18" : 300,
+				"integral_line19" : -900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 300,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 38,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 100,
+				"desired_value_line38" : 500,
+				"diff_line39" : -100,
+				"result_line40" : 0,
+				"error_prior_line18" : 400,
+				"integral_line19" : -500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 400,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 39,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 0,
+				"desired_value_line38" : 500,
+				"diff_line39" : 500,
+				"result_line40" : 500,
+				"error_prior_line18" : 500,
+				"integral_line19" : 0,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 500,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 40,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 100,
+				"desired_value_line38" : 500,
+				"diff_line39" : 800,
+				"result_line40" : 900,
+				"error_prior_line18" : 400,
+				"integral_line19" : 400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 400,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 41,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 200,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1000,
+				"result_line40" : 1200,
+				"error_prior_line18" : 300,
+				"integral_line19" : 700,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 300,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 42,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 300,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1100,
+				"result_line40" : 1400,
+				"error_prior_line18" : 200,
+				"integral_line19" : 900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 200,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 43,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 400,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1100,
+				"result_line40" : 1500,
+				"error_prior_line18" : 100,
+				"integral_line19" : 1000,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 100,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 44,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 500,
+				"desired_value_line38" : 500,
+				"diff_line39" : 1000,
+				"result_line40" : 1500,
+				"error_prior_line18" : 0,
+				"integral_line19" : 1000,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 0,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 45,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 600,
+				"desired_value_line38" : 500,
+				"diff_line39" : 800,
+				"result_line40" : 1400,
+				"error_prior_line18" : -100,
+				"integral_line19" : 900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -100,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 46,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 700,
+				"desired_value_line38" : 500,
+				"diff_line39" : 500,
+				"result_line40" : 1200,
+				"error_prior_line18" : -200,
+				"integral_line19" : 700,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -200,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 47,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 800,
+				"desired_value_line38" : 500,
+				"diff_line39" : 100,
+				"result_line40" : 900,
+				"error_prior_line18" : -300,
+				"integral_line19" : 400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -300,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 48,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 900,
+				"desired_value_line38" : 500,
+				"diff_line39" : -400,
+				"result_line40" : 500,
+				"error_prior_line18" : -400,
+				"integral_line19" : 0,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -400,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 49,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 1000,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1000,
+				"result_line40" : 0,
+				"error_prior_line18" : -500,
+				"integral_line19" : -500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -500,
+				"derivative_line28" : -100
+			}
+		},
+		{
+			"tick": 50,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 900,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1300,
+				"result_line40" : -400,
+				"error_prior_line18" : -400,
+				"integral_line19" : -900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -400,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 51,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 800,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1500,
+				"result_line40" : -700,
+				"error_prior_line18" : -300,
+				"integral_line19" : -1200,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -300,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 52,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 700,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1600,
+				"result_line40" : -900,
+				"error_prior_line18" : -200,
+				"integral_line19" : -1400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -200,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 53,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 600,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1600,
+				"result_line40" : -1000,
+				"error_prior_line18" : -100,
+				"integral_line19" : -1500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : -100,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 54,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 500,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1500,
+				"result_line40" : -1000,
+				"error_prior_line18" : 0,
+				"integral_line19" : -1500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 0,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 55,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 400,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1300,
+				"result_line40" : -900,
+				"error_prior_line18" : 100,
+				"integral_line19" : -1400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 100,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 56,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 300,
+				"desired_value_line38" : 500,
+				"diff_line39" : -1000,
+				"result_line40" : -700,
+				"error_prior_line18" : 200,
+				"integral_line19" : -1200,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 200,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 57,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 200,
+				"desired_value_line38" : 500,
+				"diff_line39" : -600,
+				"result_line40" : -400,
+				"error_prior_line18" : 300,
+				"integral_line19" : -900,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 300,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 58,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 100,
+				"desired_value_line38" : 500,
+				"diff_line39" : -100,
+				"result_line40" : 0,
+				"error_prior_line18" : 400,
+				"integral_line19" : -500,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 400,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 59,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 4,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 0,
+				"desired_value_line38" : 500,
+				"diff_line39" : 500,
+				"result_line40" : 500,
+				"error_prior_line18" : 500,
+				"integral_line19" : 0,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 500,
+				"derivative_line28" : 100
+			}
+		},
+		{
+			"tick": 60,
+			"pcs": {
+				"pc_3" : 18,
+				"pc_6" : 4,
+				"pc_5" : 8,
+				"pc_5_SinController_ramp_pc_1" : 2,
+				"pc_4" : 12,
+				"pc_4_SinController_pid_pc_2" : 4
+			},
+			"vars": {
+				"insig_line37" : 100,
+				"desired_value_line38" : 500,
+				"diff_line39" : 800,
+				"result_line40" : 900,
+				"error_prior_line18" : 400,
+				"integral_line19" : 400,
+				"KP_line20" : 1,
+				"KI_line21" : 1,
+				"KD_line22" : 0,
+				"iteration_time_line23" : 1,
+				"error_line26" : 400,
+				"derivative_line28" : -100
+			}
+		}
+	]
+}
